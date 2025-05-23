@@ -1,7 +1,7 @@
 # VeoVerse
 
 <p align="center">
-  <img src="assets/veoverse-logo.png" alt="VeoVerse Logo" width="200"/>
+  <img src="https://veo3.me/logo.png" alt="VeoVerse Logo" width="200"/>
 </p>
 
 <p align="center">
