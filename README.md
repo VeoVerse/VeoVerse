@@ -1,7 +1,7 @@
 # VeoVerse
 
 <p align="center">
-  <img src="https://veo3.me/logo.png" alt="VeoVerse Logo" width="200"/>
+  <img src="https://veoverse.org/logo.png" alt="VeoVerse Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ We carefully review all content and verify creator claims through multiple sourc
 
 Have questions, suggestions, or feedback? We'd love to hear from you!
 
-- **Email**: support@veo3.me
+- **Email**: support@veoverse.org
 
 ## Disclaimer
 
@@ -125,5 +125,5 @@ All videos featured on VeoVerse are credited to their original creators whenever
 ---
 
 <p align="center">
-  Visit <a href="https://veo3.me">veo3.me</a> to explore the future of AI video creation
+  Visit <a href="https://veoverse.org">veo3.me</a> to explore the future of AI video creation
 </p>
